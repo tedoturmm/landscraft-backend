@@ -13,7 +13,6 @@
     }
   ],
   "env": {
-    "MONGODB_URI": "@mongodb_uri",
     "JWT_SECRET": "@jwt_secret",
     "DISCORD_WEBHOOK_WARNS": "@discord_webhook_warns",
     "DISCORD_WEBHOOK_BLACKLIST": "@discord_webhook_blacklist",
